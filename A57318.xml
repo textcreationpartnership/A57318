@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Right of electing sheriffs of London and Middlesex, briefly stated and declared</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57318</idno>
+            <idno type="STC">Wing R1504</idno>
+            <idno type="STC">ESTC R24147</idno>
+            <idno type="EEBO-CITATION">07957878</idno>
+            <idno type="OCLC">ocm 07957878</idno>
+            <idno type="VID">40724</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57318)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40724)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1238:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Right of electing sheriffs of London and Middlesex, briefly stated and declared</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Dew,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sheriffs --  England.</term>
+               <term>Election law --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:40724:1" rendition="simple:additions"/>
+            <head>THE Right of Electing SHERIFFS OF <hi>LONDON</hi> and <hi>MIDDLESEX,</hi> Briefly ſtated and declared.</head>
+            <p>'TIS the preſent unhappy <hi>Fate</hi> of this great and ancient City, to be betray'd by perſons foſtered within her Walls, and raiſed and en<g ref="char:EOLhyphen"/>riched through the benefit of her Franchiſes and Priviledges. How many, whoſe Hereditary Fortunes could not furniſh them with Bread, are ſwell'd to a bigneſs ready to burſt, by having ſuckt at her Breaſts, and like Vipers, after they have been nouriſhed in her Womb, they ſtate their intereſt in gnawing her entrails, and ſtabbing her in her Vital parts?</p>
+            <p>The Antiquity of <hi>London</hi> is ſuch, that no <hi>Records</hi> can determine her Beginning. Her ſubſiſtence as a Corporation is immemorial; and no Regiſters of the affairs of former times, can define or determine when her Greatneſs, Prerogatives, and Priviledges commenced and begun.<note place="margin">Annal. <hi>14.</hi>
+               </note> 
+               <hi>Taci<g ref="char:EOLhyphen"/>tus</hi> ſaith of her above Fifteen Hundred years ago, <hi>That ſhe was a City famous for Trade and Commerce.</hi> And <hi>Cambden</hi> aſſures us, <hi>That above</hi> 360 <hi>years ſince, ſhe was ennobled with the Title of</hi> Auguſta, which was a Name of the higheſt Honour and Dignity that any Ci<g ref="char:EOLhyphen"/>ty was capable of: and then he further tells us,<note place="margin">Britain, fol. <hi>305.</hi>
+               </note> 
+               <hi>the Biſhop of this famous City was preſent at the Council of</hi> Arles, <hi>which was held under</hi> Con<g ref="char:EOLhyphen"/>ſtantine <hi>the Great.</hi> Yea, <hi>Heylin</hi> and <hi>Howel,</hi> whom our <hi>Tories</hi> ſo much Reve<g ref="char:EOLhyphen"/>rence and admire, have ſo far in this matter conſulted Truth and their own Repu<g ref="char:EOLhyphen"/>tation, that the firſt of theſe Authors acknowledgeth, <hi>ſhe was a City of great re<g ref="char:EOLhyphen"/>nown in the time of the</hi> Roman <hi>conqueſt;</hi> and the ſecond confeſſeth, <hi>That ſhe was anciently not only the Epitome and Abridgment of the Kingdom, but</hi> Caput Regum &amp; Legum, <hi>the Head both of Kings and Laws.</hi>
+            </p>
+            <p>Nor is the Citizens Right of chuſing Officers, particularly <hi>Sheriffs,</hi> founded originally upon their <hi>Charters,</hi> but it belonged unto them by the Common Law of <hi>England,</hi> as appears by the Statute of <hi>Ed.</hi> 1. <hi>cap.</hi> 8. and 13. and <hi>Cooks</hi> Commentary upon it,<note place="margin">2 <hi>Inſtit.</hi> fol. 558. <hi>Lamb.</hi> fol. 146.</note> wherein all he hath ſaid re<g ref="char:EOLhyphen"/>lating hereunto, is juſtified by <hi>Lambert</hi> in his <hi>Saxon</hi> Laws. And when in the 9th <hi>Ed.</hi> 2. it was ordained by Parliament, that the <hi>Sheriffs</hi> of the ſeveral Counties of the Kingdom ſhould be nominated by the <hi>Chan<g ref="char:EOLhyphen"/>cellor,
+<pb n="2" facs="tcp:40724:2"/>Treaſurer, Barons of the Exchequer,</hi> and the Juſtices; <hi>London</hi> is excepted, foraſmuch as it is expreſly declared, that that Act extends only to ſuch Counties and places,<note place="margin">28 <hi>Ed.</hi> 3. <hi>cap.</hi> 8.</note> 
+               <hi>where the Sherivalty is not in Fee.</hi> And as all <hi>Sherivalties</hi> are ſhut out from being concluded by that <hi>Statute,</hi> which are any ways held in <hi>Fee;</hi> ſo by undeniable and natural con<g ref="char:EOLhyphen"/>ſequence, ſuch <hi>Sherivalties</hi> ſtand ratified and confirmed by theſe two Acts of Parliament to the reſpective Grantees.<note place="margin">Stephanid. &amp; <hi>M.ſſ.</hi> in Biblioth Cotton.</note> And whereas <hi>London</hi> had anciently <hi>pro conſulibus vicecomites, for its Magiſtrates, Sheriffs;</hi> ſo <hi>William</hi> the <hi>Conqueror</hi> in acknowledgment of its ancient Rights, granted and confirmed, <hi>civibus Londini, totam dictam Civitatem &amp; vice<g ref="char:EOLhyphen"/>comitatum, to the Citizens of</hi> London, <hi>the whole City and Sheriffwick thereof.</hi>
+               <note place="margin">lib. K. in Archivis London, fol. <hi>120.</hi>
+               </note> And as to the <hi>Sheriffwick</hi> of <hi>Middleſex,</hi> Henry 1. Son to <hi>William</hi> the <hi>Conqueror, granted it to the Ci<g ref="char:EOLhyphen"/>tizens of London and their Heirs at the Farm of</hi> Three Hun<g ref="char:EOLhyphen"/>dred pounds per annum,<note place="margin">Carta H. <hi>1.</hi> Inſpex <hi>2</hi> Hen. <hi>5.</hi>
+               </note> 
+               <hi>ſo that they ſhould chuſe, vicecomites quales voluerint de ſeipſis, what Sheriffs they pleaſed from among themſelves.</hi> And King <hi>John,</hi> Son to <hi>Henry</hi> the II. did in the firſt year of his Reign, <hi>Demiſe and grant to the Citizens of</hi> London <hi>and their Heirs, the Sheriffwick of</hi> London <hi>and</hi> Middleſex, <hi>with all the cuſtoms thereunto be<g ref="char:EOLhyphen"/>longing, to be enjoy'd by them and their Heirs, at the Fee-farm of</hi> Three Hundred pounds per annum. Nor it is not unworthy of our remark, that by that <hi>Charter</hi> the ſaid <hi>Citizens have liberty and power to remove their Sheriffs when they pleaſe,</hi>
+               <note place="margin">Ex Original Carta <hi>1</hi> Joannis.</note> 
+               <hi>becauſe as the Charter expreſſeth it, the City is to anſwer for their miſdemeanors, if they ſhould offend againſt the duty of their office and Place.</hi> To theſe we may ſub<g ref="char:EOLhyphen"/>join the <hi>Charter</hi> of <hi>Hen.</hi> 3. who in the eleventh year of his Reign, <hi>deviſed and confirmed to the Citizens of</hi> London, <hi>the ſaid Sheriffwicks of</hi> London <hi>and</hi> Middle<g ref="char:EOLhyphen"/>ſex, <hi>with all the things and cuſtoms thereunto appertaining.</hi> And all theſe Charters have by <hi>Inſpeximus</hi>'s been confirmed by <hi>Ed.</hi> 1. <hi>Ed.</hi> 2. <hi>Ed.</hi> 3. <hi>Rich.</hi> 2. <hi>Hen.</hi> 4. <hi>Hen.</hi> 5. <hi>Hen.</hi> 6. <hi>Ed.</hi> 4. <hi>Rich.</hi> 3. <hi>Hen.</hi> 7. <hi>Hen.</hi> 8. <hi>Q. Mary, Q. Eliz. K. James, K. Charles</hi> I. <hi>and his preſent Majeſty.</hi> Nay, theſe Rights, Liberties and Juriſdicti<g ref="char:EOLhyphen"/>ons of chuſing <hi>Sheriffs</hi> from among themſelves, and turning them out when they will, are not only ratified and confirmed to the Barons or Free-men of <hi>London,</hi>
+               <note place="margin">cap. <hi>8.</hi>
+               </note> by <hi>Magna Charta,</hi> or the great Char<g ref="char:EOLhyphen"/>ter, and the Statutes of the 18 <hi>Ed.</hi> 1. 9 <hi>Ed.</hi> 2. but by the Statute 1 <hi>Ed.</hi> 3. wherein it is particularly Enacted, <hi>That they ſhall both have all the Priviledges which they have enjoy'd from the time of</hi> Edward the Confeſſor, <hi>and</hi> William <hi>the</hi> Conqueror, <hi>and other the Progenitors of the ſaid</hi> Ed. 3. <hi>tam per cartas quam ſine cartis ex antiqua conſuetudine, whether they poſſeſſed them by Charters, or with<g ref="char:EOLhyphen"/>out them, namely by preſcription.</hi> And it is obſervable, that this Charter of <hi>Ed.</hi> 3. is not a meer Patent, Grant or Charter of the ſaid King, but is it ſelf an Act of Par<g ref="char:EOLhyphen"/>liament, made in the firſt year of that Kings Reign, and confirmed by <hi>Inſpeximus</hi> in the 2 <hi>Hen.</hi> 8. And conſonant to this Charter and Statute of <hi>Ed.</hi> 3. is the Char<g ref="char:EOLhyphen"/>ter of the 7 <hi>Rich.</hi> 2. which is alſo ratified into an Act of Par<g ref="char:EOLhyphen"/>liament,<note place="margin">Rot. Parl. <hi>7.</hi> Rich. <hi>2.</hi> Inſpex <hi>8.</hi> Jacob.</note> and wherein he confirms <hi>unto the Citizens of Lon<g ref="char:EOLhyphen"/>don all their Franchiſes and Priviledges, ſive uſi non fuerint, ſive abuſi, whether they were either ſuch as they had not made uſe of, or ſuch as they had abuſed.</hi>
+            </p>
+            <p>Accordingly the Free-men, or Barons of <hi>London,</hi> choſe their Sheriffs, without the leaſt interpoſure of their Mayors, during all the time of <hi>R.</hi> 1. <hi>K. John, H.</hi> 3. <hi>E.</hi> 2. <hi>till the</hi> 20 of <hi>Ed.</hi> 3. But then they granted unto their Mayors, the nomina<g ref="char:EOLhyphen"/>ting or propoſing one Sheriff, but ſtill with this reſerve, That they ſhould have the ratifying, confirming and chuſing of them. And this reſervation of a Right to
+<pb n="3" facs="tcp:40724:2"/>themſelves to chuſe Sheriffs, plainly appears by the Act. For the only reaſon of allow<g ref="char:EOLhyphen"/>ing that favour unto the <hi>Mayor,</hi> was upon a ſuppoſal that he had better knowledg than others, who of the Citizens were fit for ſo important an office, which many at that time were willing to decline, by reaſon of an Act of Parliament paſs'd in the ſaid 20th <hi>Ed.</hi> 3. Empowering the Juſtices of Aſſize to enquire into the miſde<g ref="char:EOLhyphen"/>meanours of <hi>Sheriffs,</hi> and to puniſh them as Law and Reaſon did require.</p>
+            <p>And that this Ordinance doth not infringe the Rights and Priviledges of the Citizens to chuſe their own Sheriffs, appears uncontrollaby both by a Clauſe of Common Council, 49 <hi>Ed.</hi> 3. which ſays, That the Citizens were to be ſummon'd to <hi>Guild-Hall,</hi>
+               <note place="margin">Vid. lib. civit. ab anno 15. <hi>Ed.</hi> 3.</note> 
+               <hi>as Electors des Majores &amp; viſcountes, for the Election of Mayors and Sheriffs;</hi> as alſo by the Elections which were made of <hi>Sheriffs</hi> in the 42d and 43d of <hi>Ed.</hi> 3. which are expreſly ſaid to have been made by the <hi>Mayor, Aldermen, &amp; quamplurimi clariorum civitatis,</hi> and <hi>many other famous perſons of the</hi> City. And as if this were not enough to inſtruct, that the Rights of the Free-men in the chuſing their <hi>Sheriffs,</hi> were not violated by the Ordinance of the 20th <hi>Ed.</hi> 3. We have another <hi>Act</hi> of Common-Council in the 4th <hi>Hen.</hi> 5. in which it was enacted, That the Citizens ſhould be ſummon'd at ſuch a day for <hi>the chuſing freely and indifferently,</hi>
+               <note place="margin">Ibid.</note> 
+               <hi>Majorem &amp; Vi<g ref="char:EOLhyphen"/>cecomites, Mayor and Sheriffs.</hi>
+            </p>
+            <p>But whereas they alledg an Act of Common-Council in the 7th <hi>Car.</hi> 1. wherein it is <hi>Ordained and Eſtabliſhed, That the 24th of</hi> June, <hi>ſhall be for the con<g ref="char:EOLhyphen"/>firmation and allowance of ſuch perſons as hereafter ſhall be choſen by the Lord Mayor of this City for the time being, to be Sheriffs of the ſaid City and County of Midd. and for the choice of ſuch other perſons as by the Lord Mayor, Aldermen and Commons ſhall be chouſen to be Sheriffs of the ſaid City and County of Midd.</hi> &amp;c. <hi>I ſay,</hi> in the 1ſt place, That this Act of <hi>Common-Council</hi> by acknowledging a Right in the <hi>Com<g ref="char:EOLhyphen"/>mon-Hall,</hi> to confirm and allow ſuch as the <hi>Mayor</hi> ſhall Elect, does thereby de<g ref="char:EOLhyphen"/>clare that they have a power not to confirm or allow the ſaid Perſon. For a Right and a Power to allow, without a power to diſallow, were a thing nonſenſi<g ref="char:EOLhyphen"/>cal and ridiculous. <hi>Secondly,</hi> I affirm, That this Act of Common-Council in the ſenſe wherein it is conſtructed by the <hi>Mayor</hi> and his Partiſans upon he ſuggeſtions of his little <hi>Imps,</hi> is <hi>ipſo facto</hi> null and void, being expreſly contrary to Charter, Preſcription, and Statute-laws.</p>
+            <p>And for my Lord Mayor to inſiſt upon it, is not only to perjure himſelf, but to become liable to Indictments for ſubverting the Laws of the Land, as well as the priviledges and juriſdictions of the City. I <hi>thirdly</hi> affirm, That the Lord <hi>Mayors</hi> have upon the Commons conteſting this Prerogative with them, often diſſerted and abandoned it. And for particular inſtances, I refer them to what fell out in the 29th of <hi>Eliz.</hi> when my Lord Mayor having drunk to <hi>Richard Platt,</hi> the Common-Hall choſe <hi>Hugh Offler</hi> and <hi>Richard Saltonſtall;</hi> and to what occured in the 32 of <hi>Car.</hi> 2. When notwithſtanding <hi>George Hocknal's</hi> being drunk to, the Commons elected, <hi>Slingsby Bethel,</hi> and <hi>Henry Corniſh.</hi> And beſides, there are many inſtances when the Commons choſe the very perſons that my <hi>Lord</hi> had named, but not till they had firſt ſet aſide his Right and claim'd Prerogative of preſcribing unto them. For example, my Lord <hi>Mayor</hi> having in the 19. <hi>Car.</hi> 1. Nominated and preſented <hi>John Fowke,</hi> the <hi>Commons</hi> refuſed to confirm the Election, till the ſaid <hi>Mayor</hi> had declined his Prerogative and pretence, and referred for that time the Nomination of both the Sheriffs to the <hi>Common-Hall;</hi> upon which having vindicated their Rights, they elected the ſaid <hi>John Fowke</hi> and <hi>James Bunce.</hi> Nay, when in caſes wherein my <hi>Lord Mayor</hi> hath pleaded his Prerogative in this matter, the Houſe of Lords being appealed unto, have upon finding the Commons to withſtand the confirmation of the perſon he had Nomi<g ref="char:EOLhyphen"/>nated and Preſented, in effect decided it againſt him, and allowed the <hi>Commons</hi>
+               <pb n="4" facs="tcp:40724:3"/>to proceed to the Nomination of both Sheriffs for that time, as appears by an Or<g ref="char:EOLhyphen"/>der of the Houſe of Lords, 1628.</p>
+            <p>And whereas it is ſaid, That my Lord <hi>Mayor</hi> and Aldermen intend on <hi>Mid<g ref="char:EOLhyphen"/>ſummer-day</hi> to continue on the <hi>Huſtings</hi> as a Court; I do affirm that ſuch a pra<g ref="char:EOLhyphen"/>ctice would be contrary both to the Charters of the City, and to ancient cuſtom. For albeit they have a Right of voting in the Election of <hi>Sheriffs,</hi> yet it is only in the quality of <hi>Barons</hi> and <hi>Free-men</hi> of <hi>London,</hi> and not in the rank and under the Character of <hi>Mayor</hi> and <hi>Aldermen.</hi> And therefore if they ſhould pretend to ſtay, they are to deſcend and come down from the <hi>Huſtings</hi> among the Common<g ref="char:EOLhyphen"/>ers, and during that affair and tranſaction lay aſide their Grandure, and liſt themſelves among the Livery of the City. Nay, ſo far back as the 22. <hi>Hen.</hi> 6. We read that the <hi>Mayor</hi> having preſented one <hi>Nicholas Wy<g ref="char:EOLhyphen"/>ford</hi> for <hi>Sheriff,</hi>
+               <note place="margin">Lib. K. fol. 214. in Arch. 2. Lond.</note> did thereupon, <hi>cum Aldermanis aſcendere in cameras ſuperiores, remove from the Court, and go into an upper Chamber.</hi> And conſonant hereunto, hath the cuſtom and practice been for many ages. The <hi>Sheriffs</hi> for the time being are the only judges of the Election that is then to be made. And as this hath been the Common uſage, ſo it is agreeable to Law and Reaſon.</p>
+            <p>But whereas it is diſcourſed abroad, That unleſs my Lord <hi>Mayor</hi> can obtain his will of impoſing a Sheriff upon the City, he intends to diſſolve the Court; I ſhall only ſay, let him do it at his peril. For hereupon not only every Free-man may have an Action againſt him, as wronging them in the violation of their Rights and Priviledges; but they may Indict him for Perjury both in violating his Oath not only as Mayor, but as a Free-man, and alſo as a ſubverter of the Laws of the Kingdom, and the Rights and Priviledges of this famous Corporation. Nay, up<g ref="char:EOLhyphen"/>on the diſſolving the Court without the Election of Officers, he would at once offend againſt an <hi>Act</hi> of the <hi>Common-Council,</hi> which appoints the 24th of <hi>June</hi> for the Election of Sheriffs; and withal leave the City without a <hi>Chamberlain</hi> and Bridg-maſters. And as upon the non-election of a <hi>Chamberlain,</hi> no Mo<g ref="char:EOLhyphen"/>neys can be iſſued out of the Chamber, ſeeing there is none that hath Autho<g ref="char:EOLhyphen"/>rity to do it; ſo his Lordſhip muſt expect to be liable to all the Actions that per<g ref="char:EOLhyphen"/>ſons having money ariſing from thence, ſhall think fit to commence. Nay, his Lordſhips ſtanding upon the Prerogative of chuſing one Sheriff, is induſtriouſly to betray the Charter of the City, foraſmuch as the plea put in againſt the <hi>Quo Warranto</hi> proceeds directly upon this principle and foundation, <hi>viz.</hi> That the Free-men have Right acording to Preſcription and Charter of chuſing <hi>annu<g ref="char:EOLhyphen"/>ally</hi> two Sheriffs.</p>
+            <p>Upon the whole, Gentlemen and Citizens, you now underſtand what your Priviledges and Rights are, and pray remember, That by your Oaths <hi>you are bound to maintain the cuſtoms and Franchiſes of the City.</hi>
+            </p>
+            <p>Nor can you be ignorant that the deſign of wreſting from you the Priviledge of chuſing the <hi>Sheriffs,</hi> is meerly in order to hang as many of you as a few men whom I forbear to mention ſhall think meet. Did ever any of our former State-Mi<g ref="char:EOLhyphen"/>niſters concern themſelves in theſe matters? Alas! there were not heretofore ſuch machinations carried on againſt our Lives, Laws and Fortunes.</p>
+            <p>And therefore accordingly as you ſhall acquit your ſelves in this affair, you may expect either to live ſafely, or to become ſacrifices to a few men, who having for<g ref="char:EOLhyphen"/>feited their own heads to the Law, would preſerve them by an exchange for yours.</p>
+            <p>I need not mention the <hi>form</hi> of my Lord Mayors late Precepts, you are all ac<g ref="char:EOLhyphen"/>quainted with it, and cannot but be ſenſible that it differs from all you have heretofore ſeen, and that it directly overthrows your Charter, and all the Pri<g ref="char:EOLhyphen"/>viledges of it. Farewel.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Dew.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
